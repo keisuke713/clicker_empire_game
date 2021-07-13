@@ -1,0 +1,80 @@
+/* background */
+.bg-green {
+    background: #4BA3A1;
+}
+.bg-blue {
+    background: #1A4567;
+}
+.bg-white{
+    background-color: #fff;
+}
+.bg-grey{
+    background-color: #4A5972;
+}
+
+/* height */
+.vh-10{
+    height: 10vh!important;
+}
+.vh-15{
+    height: 15vh!important;
+}
+.vh-25{
+    height: 25vh!important;
+}
+.vh-70{
+    height: 70vh!important;
+}
+.vh-75{
+    height: 75vh!important;
+}
+.vh-95{
+    height: 95vh!important;
+}
+
+/* margin */
+.margin-top-10{
+    margin-top: 10px;
+}
+.margin-top-15{
+    margin-top: 15px;
+}
+
+/* userInfo */
+.user-info-row{
+    height: 45%;
+    width: 90%;
+    margin: 0 auto;
+}
+.user-info-cell{
+    display: inline-block;
+    height: 90%;
+    width: 45%;
+}
+
+/* itemInfo */
+.item{
+    width: 90%;
+    margin: 10px auto;
+    display: table;
+    table-layout: fixed;
+}
+.item-img{
+    max-width: 80%;
+    padding: 10px;
+}
+
+/* purchaseScreen */
+.purchase-screen{
+    height: 90%;
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* common */
+/* 良い名前が思い浮かばなかったテヘペロ */
+.ele-center{
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
